@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 05 12:40:02 CEST 2016:
+ Iniciando instancia a816c00e-0155-baa4-ae86-000006cb56c0 de Derby, versión The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): 
+en el directorio de base de datos /home/agomez/NetBeansProjects/FormPersistance/database con el cargador de clases sun.misc.Launcher$AppClassLoader@31eeeaed
+Cargado desde file:/opt/Apache/db-derby-10.12.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_95-b00
+user.dir=/home/agomez/NetBeansProjects/FormPersistance
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-70-generic
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''

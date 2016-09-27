@@ -12,7 +12,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import view.Login;
 import javax.swing.SwingUtilities;
-import model.DBConnection;
+import persistence.DBConnection;
 import networking.UDPClient;
 import networking.UDPServer;
 import persistence.OSPersistence;

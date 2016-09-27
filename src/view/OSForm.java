@@ -9,7 +9,7 @@ import controller.Controller;
 import main.Main;
 import java.util.Calendar;
 import java.util.Date;
-import model.DBConnection;
+import persistence.DBConnection;
 import persistence.OSPersistence;
 
 /**

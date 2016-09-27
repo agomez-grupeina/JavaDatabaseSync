@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
-import model.DBConnection;
+import persistence.DBConnection;
 import networking.UDPServer;
 import persistence.OSPersistence;
 import view.View;
